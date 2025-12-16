@@ -8,3 +8,9 @@
 
 # Partie C :
 <img width="1095" height="299" alt="image" src="https://github.com/user-attachments/assets/b78ae971-4e05-4190-9a05-e81332bedeb8" />
+
+# Partie D :
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/8a4f5e60-2dfa-4316-934d-eaa01e4894fb" />
+
+# Partie E :
+
