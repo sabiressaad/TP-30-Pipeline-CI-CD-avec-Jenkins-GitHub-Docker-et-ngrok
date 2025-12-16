@@ -15,3 +15,5 @@
 # Partie E :
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a0c38a80-3cf1-4e36-8dd3-18abf835dcbf" />
 
+# Partie F :
+<img width="1470" height="493" alt="image" src="https://github.com/user-attachments/assets/1cf8e95a-2899-4739-9ad7-6394d4151e71" />
