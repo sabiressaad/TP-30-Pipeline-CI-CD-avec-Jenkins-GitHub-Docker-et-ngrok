@@ -7,3 +7,4 @@
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/f45e3951-63d9-4568-8dad-d88b24a5786b" />
 
 # Partie C :
+<img width="1095" height="299" alt="image" src="https://github.com/user-attachments/assets/b78ae971-4e05-4190-9a05-e81332bedeb8" />
