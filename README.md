@@ -13,4 +13,5 @@
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/8a4f5e60-2dfa-4316-934d-eaa01e4894fb" />
 
 # Partie E :
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a0c38a80-3cf1-4e36-8dd3-18abf835dcbf" />
 
